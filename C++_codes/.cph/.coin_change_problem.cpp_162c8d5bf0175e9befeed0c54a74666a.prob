@@ -1,0 +1,1 @@
+{"name":"Local: coin_change_problem","url":"d:\\my documents\\visual_code_example\\C++_codes\\coin_change_problem.cpp","tests":[{"id":1651918407809,"input":"3\n1 2 3\n5","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\my documents\\visual_code_example\\C++_codes\\coin_change_problem.cpp","group":"local","local":true}

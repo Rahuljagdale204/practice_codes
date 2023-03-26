@@ -1,0 +1,1 @@
+{"name":"Local: DES","url":"d:\\my documents\\visual_code_example\\B.Tech practicals\\cns practicals\\DES.cpp","tests":[{"id":1668943241527,"input":"123456ABCD132536\nAABB09182736CCDD","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\my documents\\visual_code_example\\B.Tech practicals\\cns practicals\\DES.cpp","group":"local","local":true}

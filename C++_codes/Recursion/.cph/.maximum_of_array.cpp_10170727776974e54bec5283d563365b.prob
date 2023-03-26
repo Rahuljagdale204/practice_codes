@@ -1,0 +1,1 @@
+{"name":"Local: maximum_of_array","url":"d:\\my documents\\visual_code_example\\C++_codes\\Recursion\\maximum_of_array.cpp","tests":[{"id":1653893469047,"input":"5\n20 50 4 90 3","output":"90"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\my documents\\visual_code_example\\C++_codes\\Recursion\\maximum_of_array.cpp","group":"local","local":true}

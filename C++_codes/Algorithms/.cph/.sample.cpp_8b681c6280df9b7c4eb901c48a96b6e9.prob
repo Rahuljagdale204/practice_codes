@@ -1,0 +1,1 @@
+{"name":"Local: sample","url":"d:\\my documents\\visual_code_example\\C++_codes\\Algorithms\\sample.cpp","tests":[{"id":1658292408493,"input":"4\n3\n101\n3\n001\n4\n1011\n6\n010011","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\my documents\\visual_code_example\\C++_codes\\Algorithms\\sample.cpp","group":"local","local":true}

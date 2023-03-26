@@ -1,0 +1,1 @@
+{"name":"Local: rightmostindex","url":"d:\\my documents\\visual_code_example\\B.Tech practicals\\rightmostindex.c","tests":[{"id":1659678017682,"input":"abcdedfabcde\nabc","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\my documents\\visual_code_example\\B.Tech practicals\\rightmostindex.c","group":"local","local":true}
