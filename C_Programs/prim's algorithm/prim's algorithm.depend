@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1617783806 source:d:\my documents\folder\prim's algorithm\main.c
+	<limits.h>
+	<stdbool.h>
+	<stdio.h>
+

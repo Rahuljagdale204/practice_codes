@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1612360986 source:d:\my documents\folder\dfs_method\main.c
+	<stdio.h>
+	<stdlib.h>
+

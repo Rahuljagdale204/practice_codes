@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608459472 source:d:\my documents\folder\ newton’s forward_derivation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

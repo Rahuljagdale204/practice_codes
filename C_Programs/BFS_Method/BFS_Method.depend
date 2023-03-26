@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1612358773 source:d:\my documents\folder\bfs_method\main.c
+	<stdio.h>
+	<stdlib.h>
+

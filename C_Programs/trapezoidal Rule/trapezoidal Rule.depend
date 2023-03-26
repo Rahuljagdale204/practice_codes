@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608460826 source:d:\my documents\folder\trapezoidal rule\main.c
+	<stdio.h>
+	<conio.h>
+	<math.h>
+

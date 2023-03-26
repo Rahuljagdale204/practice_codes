@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608461574 source:d:\my documents\folder\3 rule\simpson’s 1\main.c
+	<stdio.h>
+	<conio.h>
+	<math.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1600616151 source:d:\my documents\folder\data structure linkedlst 2\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+

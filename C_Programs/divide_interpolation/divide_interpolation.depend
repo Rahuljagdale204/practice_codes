@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607781823 source:d:\my documents\folder\divide_interpolation\main.c
+	<stdio.h>
+	<conio.h>
+

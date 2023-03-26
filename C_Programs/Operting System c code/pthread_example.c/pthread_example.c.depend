@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1584205420 source:d:\my documents\operting system c code\pthread_example.c\main.c
+	<stdio.h>
+	<stdlib.h>
+

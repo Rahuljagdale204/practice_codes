@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1608460506 source:d:\my documents\folder\newton's_divide_derivation\main.c
+	<stdio.h>
+	<conio.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1638802178 source:d:\my documents\folder\multi-threaded_circular_queue\main.c
+	<pthread.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<errno.h>
+	<sys/types.h>
+

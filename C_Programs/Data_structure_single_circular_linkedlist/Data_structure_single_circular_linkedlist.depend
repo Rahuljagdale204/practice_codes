@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1601909230 source:d:\my documents\folder\data_structure_single_circular_linkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

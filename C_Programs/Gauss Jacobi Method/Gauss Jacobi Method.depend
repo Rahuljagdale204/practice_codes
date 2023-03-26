@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1601043527 source:d:\my documents\folder\gauss jacobi method\main.c
+	<stdio.h>
+	<math.h>
+

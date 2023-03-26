@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1614402684 source:d:\my documents\folder\rod_cut\main.c
+	<stdio.h>
+	<stdlib.h>
+

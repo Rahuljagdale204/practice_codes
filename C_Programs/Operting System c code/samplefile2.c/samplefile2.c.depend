@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1644668020 source:d:\my documents\operting system c code\samplefile2.c\main.c
+	<pthread.h>
+	<semaphore.h>
+	<stdio.h>
+	<unistd.h>
+
